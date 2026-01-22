@@ -1,16 +1,57 @@
-## Hi there 👋
+# PANOPTIC/NULL × NULL/PATRONAGE
 
-<!--
-**deusexpythonic/deusexpythonic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Invariants:
+- Privacy-first.
+- No profiling.
+- No analytics.
+- No narrative.
+- No persuasion.
+- No optimization.
+- No retention.
+- Full reversibility.
+- Forkability required.
 
-Here are some ideas to get you started:
+Properties:
+- Minimal surface.
+- No onboarding.
+- No identity.
+- No roles.
+- No tiers.
+- No roadmap.
+- No promises.
+- No community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Constraints:
+- No external dependencies unless auditable.
+- No hidden state.
+- No behavioral capture.
+- No data extraction.
+- No telemetry.
+
+Threshold:
+- One-way flow.
+- Voluntary.
+- Irreversible.
+- Non-contractual.
+- Non-reciprocal.
+
+If this field has an effect:
+USDC/SOL → deusexmachina.skr
+
+Operations:
+- Read.
+- Fork.
+- Run.
+- Exit.
+
+Non-Goals:
+- Growth.
+- Engagement.
+- Conversion.
+- Influence.
+
+This is a constraint set.  
+This is a threshold.  
+Not a product.  
+Not a service.  
+Not a story.
