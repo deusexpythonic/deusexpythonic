@@ -35,8 +35,6 @@ Threshold:
 - Non-contractual.
 - Non-reciprocal.
 
-If this field has an effect:
-USDC/SOL → deusexmachina.skr
 
 Operations:
 - Read.
